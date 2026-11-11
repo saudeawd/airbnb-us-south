@@ -159,7 +159,9 @@ The error for a listing of a given size is similar across cities — large listi
   1. **City overview** — listings, median price, availability, review scores, hosts, room-type mix and neighbourhoods for the selected city.
   2. **Cross-city: New Orleans vs Asheville** — Asheville is about $28 a night pricier ($225 vs $197 median), but 40.8% of New Orleans listings are 30+ night rentals vs 8.6% in Asheville.
   3. **Model** — the four MAE numbers, predicted vs actual, error by room type and neighbourhood, and the most under- and over-priced listings. The `run_label` filter switches between `week1`, `c_first_run` and `c_after_fix` (Nashville). `error = predicted_price - price`, so negative means the model under-prices.
-- Genie agent: TODO link — setup and example questions: `docs/genie_setup.md`.
+
+- Genie Agent: [Airbnb Gold Data Insights and Predictive Analytics](https://dbc-58a977cc-a9a9.cloud.databricks.com/genie/rooms/01f1de1512c9101fa4d6edc3cd687797?o=7474650486058939)
+
 
 ## Presentation
 
