@@ -167,8 +167,7 @@ The error for a listing of a given size is similar across cities — large listi
 
 
 ## Presentation
-
-TODO: link or `presentation.pdf`.
+(https://canva.link/1jthkme1gobj8t8)
 
 ## Team contributions
 
